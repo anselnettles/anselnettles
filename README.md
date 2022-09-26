@@ -1,7 +1,7 @@
 <!-- well, i doubt no one's ever finding this message ☕
 --> 
 <div align="center">
-<h1 align="center">Welcome amidst the nettles, I'm Ansel, aka. Ami 🌱</h1>
+<h1 align="center">I'm Ansel, aka. Ami 🌱</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormoront&pause=1000&color=F9BC2F&width=520&lines=A+fencing+instructor+turned+software+developer.;A+programmer+by+day%2C+a+swordsman+by+night.;See+my+portfolio+and+more+at+anselnettl.es" alt="Typing SVG" /></a>
 
 <div align="left">
@@ -13,10 +13,19 @@
 <div align="center">  
 <h2>Find me in:</h2>
 <a href="https://www.linkedin.com/in/anselnettles/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
-</a>&emsp;
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384171.png" height="40px" width="40px"/>
+  </a>&emsp;
+  <a href="https://www.twitter.com/anselnettles">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384174.png" height="40px" width="40px"/>
+  </a>&emsp;
+  <a href="https://www.instagram.com/ansel.nettles">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384172.png" height="40px" width="40px"/>
+  </a>&emsp;
 <a href="mailto:aviholai@student.hive.fi">
-<img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png"" />
+<img src="https://cdn-icons-png.flaticon.com/512/747/747828.png" height="40px" width="40px"/>
+  </a>&emsp;
+  <a href="https://www.anselnettl.es">
+<img src="https://cdn-icons-png.flaticon.com/512/7166/7166224.png" height="40px" width="40px"/>
 </a>
 </div>
 <br>
