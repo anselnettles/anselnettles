@@ -24,7 +24,7 @@
 <a href="mailto:aviholai@student.hive.fi">
 <img src="https://cdn-icons-png.flaticon.com/512/747/747828.png" height="40px" width="40px"/>
   </a>&emsp;
-  <a href="https://www.anselnettl.es">
+  <a href="http://anselnettl.es">
 <img src="https://cdn-icons-png.flaticon.com/512/7166/7166224.png" height="40px" width="40px"/>
 </a>
 </div>
