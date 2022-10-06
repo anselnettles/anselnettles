@@ -2,7 +2,7 @@
 --> 
 <div align="center">
 <h1 align="center">I'm Ansel, aka. Ami 🌱</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormoront&pause=1000&color=F9BC2F&width=520&lines=A+fencing+instructor+turned+software+developer.;A+programmer+by+day%2C+a+swordsman+by+night.;See+my+portfolio+and+more+at+anselnettl.es" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormoront&pause=1000&color=F9BC2F&width=520&lines=A+fencing+instructor+turned+software+dev.;A+programmer+by+day%2C+a+swordsman+by+night.;See+my+portfolio+and+more+at+anselnettl.es" alt="Typing SVG" /></a>
 
 <div align="left">
 • Enrolled in HIVE Helsinki programming school in October 2021.<br>
