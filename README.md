@@ -4,11 +4,17 @@
 <h1 align="center">I'm Ansel, aka. Ami 🌱</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormoront&pause=1000&color=F9BC2F&width=520&lines=A+fencing+instructor+turned+software+dev.;A+programmer+by+day%2C+a+swordsman+by+night.;See+my+portfolio+and+more+at+anselnettl.es" alt="Typing SVG" /></a>
 
-<div align="left">
+<div align="left"><p><input size="80">
 • Enrolled in HIVE Helsinki programming school in October 2021.<br>
 • Graduates to HIVE alumni in 2023.<br>
+&emsp;&emsp;<sup>"𝙸'𝚖 𝚋𝚎𝚑𝚒𝚗𝚍 𝚒𝚗 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, — 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚍𝚎𝚊𝚍𝚕𝚒𝚗𝚎 𝚒𝚜 𝚕𝚘𝚘𝚖𝚒𝚗𝚐 𝚎𝚟𝚎𝚛 𝚗𝚎𝚊𝚛𝚎𝚛. 𝚂𝚘 𝙸 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚑𝚞𝚛𝚛𝚢."</sup><br>
 • Practices programming code five days a week.<br>
+&emsp;&emsp;<sup>"𝙸'𝚖 𝚊𝚝 𝚜𝚌𝚑𝚘𝚘𝚕 𝚊𝚝 𝚝𝚎𝚗 𝚝𝚘 𝚜𝚒𝚡."</sup><br>
 • Practices forms of traditional, historical and modern swordsmanship five days a week.<br>
+&emsp;&emsp;<sup>"𝙼𝚘𝚛𝚗𝚒𝚗𝚐 𝚔𝚎𝚒𝚔𝚘 𝚒𝚜 𝚏𝚛𝚘𝚖 𝟽 𝙰𝙼 𝚝𝚘 𝟿 𝙰𝙼.  𝙸 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎 𝚖𝚘𝚛𝚎 𝚏𝚛𝚎𝚎-𝚏𝚘𝚛𝚖 𝚜𝚝𝚞𝚏𝚏 𝚊𝚗𝚍 𝚃𝚊𝚒𝚍𝚘 𝚘𝚗 𝚝𝚑𝚎 𝚜𝚒𝚍𝚎."</sup><br></input></p>
+
+The projects I strive to have finished and repo'd here by the summer of next yer (2023) are: 
+FdF (basic 3D wireframing), Fract'ol (2D mathematical fractal shapes), RT (3D raytracing presentation) and our early-2022 game jam project <i>SLATES</i>.
 
 <div align="center">  
 <h2>Find me in:</h2>
