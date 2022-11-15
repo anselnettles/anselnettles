@@ -6,8 +6,9 @@
 
 <div align="left"><p><input size="80">
 • Enrolled in HIVE Helsinki programming school in October 2021.<br>
+&emsp;&emsp;<sup>"Getting into HIVE was one of the hardest things I've managed. It was a month long entrance exam."</sup><br>
 • Graduates to HIVE alumni in 2023.<br>
-&emsp;&emsp;<sup>"𝙸'𝚖 𝚋𝚎𝚑𝚒𝚗𝚍 𝚒𝚗 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, — 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚍𝚎𝚊𝚍𝚕𝚒𝚗𝚎 𝚒𝚜 𝚕𝚘𝚘𝚖𝚒𝚗𝚐 𝚎𝚟𝚎𝚛 𝚗𝚎𝚊𝚛𝚎𝚛. 𝚂𝚘 𝙸 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚑𝚞𝚛𝚛𝚢."</sup><br>
+&emsp;&emsp;<sup>"T𝚑𝚎 𝚍𝚎𝚊𝚍𝚕𝚒𝚗𝚎 𝚒𝚜 𝚕𝚘𝚘𝚖𝚒𝚗𝚐 𝚎𝚟𝚎𝚛 𝚗𝚎𝚊𝚛𝚎𝚛, but I should have my final projects submitted by the end of March."</sup><br>
 • Practices programming code five days a week.<br>
 &emsp;&emsp;<sup>"𝙸'𝚖 𝚊𝚝 𝚜𝚌𝚑𝚘𝚘𝚕 𝚊𝚝 𝚝𝚎𝚗 𝚝𝚘 𝚜𝚒𝚡."</sup><br>
 • Practices forms of traditional, historical and modern swordsmanship five days a week.<br>
