@@ -14,7 +14,7 @@
 • Practices forms of traditional, historical and modern swordsmanship five days a week.<br> 
   &emsp;&emsp;<sup>"𝙼𝚘𝚛𝚗𝚒𝚗𝚐 𝚐𝚎𝚔𝚒𝚔𝚎𝚗 𝚔𝚎𝚒𝚔𝚘 撃剣稽古 𝚒𝚜 𝚏𝚛𝚘𝚖 𝟽 𝙰𝙼 𝚝𝚘 𝟿 𝙰𝙼. 𝙸 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎 𝚖𝚘𝚛𝚎 𝚏𝚛𝚎𝚎-𝚏𝚘𝚛𝚖 𝚜𝚝𝚞𝚏𝚏 𝚊𝚗𝚍 𝚃𝚊𝚒𝚍𝚘 躰道 𝚘𝚗 𝚝𝚑𝚎 𝚜𝚒𝚍𝚎."</sup><br></input></p>
 
-The projects I strive to have finished and repo'd here by Apr of 2023 are: 
+The projects I strive to have finished and repositoried here by April of 2023 are: 
 <b>FdF</b> (basic 3D wireframing), <b>Fract'ol</b> (2D mathematical fractal shapes), <b>Doom-Nukem</b> (an old-school 1st-person game, rendered via ray-cast) and our early-2022 game jam project <i><b>SLATES</b></i>, a Game Boy game.<br>
 
 Check out my other media for my work in other walks of life.
