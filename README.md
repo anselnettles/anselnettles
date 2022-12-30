@@ -17,7 +17,7 @@
 The projects I strive to have finished and repositoried here by April of 2023 are: 
 <b>FdF</b> (basic 3D wireframing), <b>Fract'ol</b> (2D mathematical fractal shapes), <b>Doom-Nukem</b> (an old-school 1st-person game, rendered via ray-cast) and our early-2022 game jam project <i><b>SLATES</b></i>, a Game Boy game.<br>
 
-Check out my other media for my work in other walks of life.
+Check out my other media:
 
 <div align="center">  
 <h2>Find me in:</h2>
