@@ -16,7 +16,7 @@
 
 The projects I strive to have finished and repositoried here by April of 2023 are: 
 <b>FdF</b> (basic 3D wireframing), <b>Fract'ol</b> (2D mathematical fractal shapes), <b>Doom-Nukem</b> (an old-school 1st-person game, rendered via ray-cast) and our early-2022 game jam project <i><b>SLATES</b></i>, a Game Boy game.<br> 
-September of 2023 I started working on an experimental, personal AR game project "<a href="https://github.com/anselnettles/rutimos">Rutimos</a>".
+December of 2023 I started working on an augmented reality project "<a href="https://github.com/anselnettles/tremor">Tremor</a>" with @ReneAho and @SamuliTuo.
 
 Check out my other media:
 
