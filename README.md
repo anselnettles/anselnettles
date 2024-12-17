@@ -42,4 +42,4 @@ The projects I strive to have finished and repositoried here by April of 2023 ar
 <img src="https://img.shields.io/badge/Linux-719963?logo=linux&logoColor=fff&style=flat-square" alt="Linux Badge">
 <img src="https://img.shields.io/badge/macOS-719963?logo=macos&logoColor=fff&style=flat-square" alt="macOS Badge"><br>
 
-[![Ansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anselnettles&count_private=true&show_icons=true&theme=gruvbox&bg_color=0d1117&hide_border=TRUE&include_all_commits&hide=contribs&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
+[![Ansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anselnettles&count_private=true&show_icons=true&theme=gruvbox&bg_color=0d1117&hide_border=TRUE&include_all_commits=true&hide=contribs&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
